@@ -6,7 +6,7 @@ This role will setup a docker swarm cluster as outlined in the docker docs for p
 Requirements
 ------------
 
-None.
+None. As mentioned this role is intended to be used for testing swarm on vagrants, you can use the vagrant setup here - https://github.com/lowwalker/vagrant-docker-swarm-ansible
 
 Role Variables
 --------------
